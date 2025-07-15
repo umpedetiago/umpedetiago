@@ -1,66 +1,47 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
-</div>
+# 👋 Olá, eu sou o Tiago!
 
-### 👋 Olá, eu sou o Tiago!
+🚀 Desenvolvedor Flutter com mais de 3 anos de experiência criando soluções multiplataforma que impactam diretamente o dia a dia das pessoas. Entusiasta de tecnologia, apaixonado por código limpo, boas práticas e performance.
 
-<br>
+## 💼 Sobre mim
 
-Sou um estudante de desenvolvimento **Front-end**, focado em criar experiências incríveis e interativas para a web. Estou sempre em busca de novos desafios para aprimorar minhas habilidades na construção de aplicações modernas e eficientes.
+- 🎯 Foco em **arquiteturas robustas** e **experiência do usuário**
+- 📱 Já desenvolvi apps **Android**, **iOS** e **Desktop (Windows)** com Flutter
+- 🧠 Experiência com **Clean Architecture**, **BLoC**, **MVC**
+- ☁️ Integração com **Firebase**, **REST APIs**, **OneSignal**, **SQLite (Sqflite)**
+- 🛠️ Crio sistemas escaláveis e manteníveis, sempre buscando excelência no código
 
-<br>
+## 🌍 Contribuições e Comunidade
 
----
+- 🧩 **Moderador da Flutterando** — a maior comunidade Flutter do hemisfério sul
+- 🎙️ Ativo em eventos, meetups e fóruns sobre Flutter e tecnologia
+- 🤝 Aberto para colaborações e projetos que promovam inovação
 
-### 💻 Habilidades Técnicas
+## 🛠️ Tecnologias & Ferramentas
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat&logo=swagger&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,git,github&perline=4" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umpedetiago&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=umpedetiago&theme=tokyonight" />
 </p>
 
-<br>
+## 📫 Vamos conversar?
+
+Se você quiser trocar ideias, colaborar ou bater um papo técnico:
+
+- 📬 **Email:** contato.tiagopedroso@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/umpedetiago/)  
+- 🌐 [umpedetiago.dev](https://umpedetiago.dev) *(em construção)*
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+⭐️ Se curtir meus repositórios, deixa uma ⭐ por lá. Isso ajuda bastante!
 
-<div align="center">
-  <a href="https://github.com/umpedetiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umpedetiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umpedetiago&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br>
-
----
-
-### 🚀 Meus Principais Projetos
-
-Abaixo estão alguns dos projetos que desenvolvi e que refletem minha jornada de aprendizado.
-
-| Projeto | Descrição |
-| --- | --- |
-| **[Decodificador de Texto](https://github.com/umpedetiago/Decodificador-de-texto)** | Challenge da Alura para criar um codificador/decodificador de texto com JS puro. |
-| **[Portfólio Pessoal](https://github.com/umpedetiago/Portfolio-pessoal)** | Meu portfólio pessoal para apresentar meus projetos e habilidades. |
-| **[Organo React](https://github.com/umpedetiago/Organo-react)** | Projeto de um organizador de times feito com React para organizar os colaboradores. |
-| **[Space App](https://github.com/umpedetiago/Space-app)** | Uma galeria de imagens espaciais, também desenvolvida com React. |
-
-<br>
-
----
-
-### 📫 Conecte-se Comigo
-
-Sinta-se à vontade para entrar em contato. Vamos trocar ideias e conhecimento!
-
-<div align="center"> 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
-  <a href="mailto:#">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
