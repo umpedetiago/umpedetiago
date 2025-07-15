@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB6eTYxajl6bTVjZDBzZW1pa3JqbjA2ZXRpcW1yNnNtaG53aXJqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80flz2sc/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
 </div>
 
 ### 👋 Olá, eu sou o Tiago!
 
 <br>
 
-Sou um estudante de desenvolvimento **Front-end** apaixonado por tecnologia e por criar interfaces e experiências interativas para a web. Estou constantemente aprendendo e aprimorando minhas habilidades para construir aplicações modernas e eficientes.
+Sou um estudante de desenvolvimento **Front-end**, focado em criar experiências incríveis e interativas para a web. Estou sempre em busca de novos desafios para aprimorar minhas habilidades na construção de aplicações modernas e eficientes.
 
 <br>
 
@@ -14,16 +14,11 @@ Sou um estudante de desenvolvimento **Front-end** apaixonado por tecnologia e po
 
 ### 💻 Habilidades Técnicas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Tiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tiago-Styled" height="40" width="50" src="https://styled-components.com/logo.png">
-  <img align="center" alt="Tiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Tiago-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,git,github&perline=4" />
+  </a>
+</p>
 
 <br>
 
@@ -33,8 +28,8 @@ Sou um estudante de desenvolvimento **Front-end** apaixonado por tecnologia e po
 
 <div align="center">
   <a href="https://github.com/umpedetiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umpedetiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umpedetiago&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umpedetiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umpedetiago&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
@@ -43,13 +38,13 @@ Sou um estudante de desenvolvimento **Front-end** apaixonado por tecnologia e po
 
 ### 🚀 Meus Principais Projetos
 
-<p>Aqui estão alguns dos projetos que desenvolvi durante meus estudos e que demonstram minhas habilidades:</p>
+Abaixo estão alguns dos projetos que desenvolvi e que refletem minha jornada de aprendizado.
 
 | Projeto | Descrição |
 | --- | --- |
-| **[Decodificador de Texto](https://github.com/umpedetiago/Decodificador-de-texto)** | Challenge da Alura para criar um codificador/decodificador de texto. |
+| **[Decodificador de Texto](https://github.com/umpedetiago/Decodificador-de-texto)** | Challenge da Alura para criar um codificador/decodificador de texto com JS puro. |
 | **[Portfólio Pessoal](https://github.com/umpedetiago/Portfolio-pessoal)** | Meu portfólio pessoal para apresentar meus projetos e habilidades. |
-| **[Organo React](https://github.com/umpedetiago/Organo-react)** | Projeto de um organizador de times feito com React. |
+| **[Organo React](https://github.com/umpedetiago/Organo-react)** | Projeto de um organizador de times feito com React para organizar os colaboradores. |
 | **[Space App](https://github.com/umpedetiago/Space-app)** | Uma galeria de imagens espaciais, também desenvolvida com React. |
 
 <br>
@@ -58,9 +53,14 @@ Sou um estudante de desenvolvimento **Front-end** apaixonado por tecnologia e po
 
 ### 📫 Conecte-se Comigo
 
-<p>Vamos nos conectar! Fique à vontade para me contatar através das minhas redes.</p>
+Sinta-se à vontade para entrar em contato. Vamos trocar ideias e conhecimento!
 
-<div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center"> 
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  
+  <a href="mailto:#">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
